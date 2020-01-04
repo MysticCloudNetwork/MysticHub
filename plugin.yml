@@ -1,0 +1,9 @@
+name: MysticHub
+author: QuickScythe
+version: ALPHA
+description: The MysticCloud Hub plugin
+main: net.mysticcloud.spigot.hub.Main
+commands:
+  sql:
+    usage: /sql [query]
+    description: Run SQL commands from inside Minecraft!
